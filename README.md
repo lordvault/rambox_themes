@@ -26,4 +26,4 @@ Also try to have the css for one resolution, some times the @media tags are not 
 After you have all your code complete you can set the javascript on the feature of rambox, (click on the gear and open the advance arrow).
 
 
-![rambox set javascript](/assets/rambox_advance.png)
+![rambox set javascript](rambox_advance.png)
